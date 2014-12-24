@@ -1,4 +1,4 @@
--cp Promise
+-cp promise
 -main Test
 -js bin/test.js
 
